@@ -126,17 +126,32 @@ The Pipe Leakage Detection System identifies gas leaks in pipelines by analyzing
 ---
 
 ### **References**
-Refer to the complete reference list provided in the project report for in-depth study and related works.
+Research Papers
+Chung, Y., & Lee, Y. (2016). Ultrasonic Leak Detection for Industrial Gas Pipelines. Journal of Nondestructive Evaluation, 35(3), 20–25.
+Patil, P., & Agarwal, S. (2020). Ultrasonic Sensing and Signal Processing Techniques for Gas Leak Detection. Sensors and Actuators A: Physical, 310, 112027.
+Wang, J., Yang, C., & Zhao, X. (2018). Real-Time Gas Leak Detection Using FFT Analysis in Ultrasonic Frequency Range. Applied Acoustics, 134, 1–10.
+Zhou, Q., et al. (2019). High-Precision Real-Time Ultrasonic Leak Detection Based on Digital Signal Processing. IEEE Transactions on Industrial Electronics, 66(11), 8905–8914.
+Li, X., & Lu, J. (2022). An Ultrasonic Gas Leak Detection System Using Real-Time Spectral Analysis. Journal of Acoustics, 45(2), 233–242.
+Datasheets and Manuals
+STMicroelectronics. (2021). STM32F401RE Datasheet.
+STMicroelectronics. (2021). STM32CubeMX and STM32CubeIDE User Manual.
+Keysight Technologies. (2020). Function Generators Application Manual.
+MathWorks. (2022). MATLAB Simulink Hardware Support Package for STM32 Boards.
+Books
+Proakis, J. G., & Manolakis, D. G. (2007). Digital Signal Processing: Principles, Algorithms, and Applications. Prentice Hall.
+Uchino, K. (2019). Advanced Piezoelectric Materials: Science and Technology. Woodhead Publishing.
+Kester, W. (2005). Analog-Digital Conversion. Analog Devices.
+Articles and Websites
+Gas Sensing Applications Using Ultrasonics. (2023). Sensor Technology Online.
+Fast Fourier Transform for Signal Analysis. (2023). Electronics Tutorials.
+Designing High-Speed ADC Systems for Signal Processing. (2023). All About Circuits.
+IoT Applications in Ultrasonic Detection. (2023). IoT Times.
 
 ---
 
 ### **Acknowledgments**
 We express our gratitude to **Professor Sanket Patel** for his guidance and support in this project.
 
----
-
-**Contact Information:**  
-For further inquiries or contributions, contact [your group email/contact details].  
 
 --- 
 
